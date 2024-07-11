@@ -2,6 +2,8 @@
 
 # QR Code Generator
 
+![github](https://github.com/0x414854/QR_Code_Generator/assets/128352715/1cd3a484-f3bd-45be-bf78-9013cc82eced)
+
 ## **Description**
 **This Python project generates a QR code for a given URL and saves it as a PNG file.**
 <br>Users provide a URL and a desired file name, and the application validates the URL, ensures the file name has the correct extension, creates the QR code, and saves it in a designated directory.
